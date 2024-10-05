@@ -1,5 +1,19 @@
+*{
+    margin: 0;
+}
 h1{
     background-color: antiquewhite;
     color: red;
     text-align: center;
+}
+h2{
+    text-align: center;
+    color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+div{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
