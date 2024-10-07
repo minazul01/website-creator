@@ -17,3 +17,14 @@ div{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+th,td,tr{
+    border: solid;
+    padding: 5px 10px;
+  
+
+}
+table{
+    border-collapse: collapse;
+    max-width: 400px auto;
+    text-align: center;
+}
